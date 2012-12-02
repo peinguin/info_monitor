@@ -1,0 +1,8 @@
+#video,
+#text
+{
+	vertical-align: top;
+	width: 50%;
+	text-align: center;
+	display: inline-block;
+}
